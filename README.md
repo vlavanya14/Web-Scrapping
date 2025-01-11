@@ -1,7 +1,6 @@
 DEAL HUNTER
 
 Project Dependencies
-
 Python Version:  
 - Python 3.8.0 or above
 
