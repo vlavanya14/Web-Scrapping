@@ -24,4 +24,3 @@ Installation Instructions:
    - Chrome: [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/)
    - Firefox: [GeckoDriver](https://github.com/mozilla/geckodriver/releases)
 4. Launch the project using your preferred IDE.
-
