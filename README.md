@@ -14,7 +14,6 @@ Required Libraries:
 - Streamlit  
 - BeautifulSoup (bs4)  
 - Selenium  
-- Other dependencies as specified in `requirements.txt`
 
 Installation Instructions: 
 1. Install Python 3.8.0 or above from the [official website](https://www.python.org/).
