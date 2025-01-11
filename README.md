@@ -1,8 +1,28 @@
-Overview
-This project involves web scraping the [DealsHeaven](https://dealsheaven.in/) website to extract deals and offers in a structured format. The extracted data can be used for analytics, monitoring discounts, or building a deal aggregation system.
+DEAL HUNTER
 
-Features
-Extracts product details like name, price, discount, and availability.
-Parses data into a CSV file or database for further analysis.
-Handles pagination to scrape data from multiple pages.
-Includes error handling for robust scraping.
+Project Dependencies
+
+Python Version:  
+- Python 3.8.0 or above
+
+Recommended Python IDEs: 
+- Visual Studio Code  
+- PyCharm  
+- IDLE  
+- Eclipse
+
+Required Libraries:  
+- Streamlit  
+- BeautifulSoup (bs4)  
+- Selenium  
+- Other dependencies as specified in `requirements.txt`
+
+Installation Instructions: 
+1. Install Python 3.8.0 or above from the [official website](https://www.python.org/).
+2. Install the required libraries using the following command:
+   pip install -r requirements.txt
+3. For Selenium, ensure the appropriate WebDriver is installed for your browser:
+   - Chrome: [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/)
+   - Firefox: [GeckoDriver](https://github.com/mozilla/geckodriver/releases)
+4. Launch the project using your preferred IDE.
+
